@@ -1,2 +1,2 @@
-model_checkpoint_path: "model_mnist_0005.ckpt"
-all_model_checkpoint_paths: "model_mnist_0005.ckpt"
+model_checkpoint_path: "model_cats_and_dogs_0030.ckpt"
+all_model_checkpoint_paths: "model_cats_and_dogs_0030.ckpt"
